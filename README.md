@@ -2,7 +2,7 @@
 
 > Next-generation AI interface engineered for speed, flexibility, and advanced conversational performance.
 
-![Alt text](https://i.imgur.com/d5v24dF.png)
+![Alt text](https://i.imgur.com/8m41284.jpeg)
 
 ---
 
